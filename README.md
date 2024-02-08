@@ -25,12 +25,6 @@ steps:
             branch: master
 ```
 
-## Roadmap
-
-- [ ] Add support for deploying via the default setup.
-- [ ] Add support for deploying via provided docker image.
-- [ ] Add support for deploying via provided tarball.
-
 ## Credits
 
-This plugin is based on [deploy-from-github](https://github.com/caprover/deploy-from-github) by [CapRover](https://caprover.com/).
+This plugin is based on [deploy-from-github](https://github.com/caprover/deploy-from-github) by [CapRover](https://caprover.com/). All we have done is to make it work with Woodpecker CI.
