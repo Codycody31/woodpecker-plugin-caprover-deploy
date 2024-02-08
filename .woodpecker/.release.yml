@@ -35,7 +35,7 @@ steps:
       tag: next
       logins: *publish_logins
     when:
-      branch: main
+      branch: master
       event: push
 
   publish-tag:
